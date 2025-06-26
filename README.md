@@ -13,14 +13,8 @@ A fun and interactive **text-based adventure game** where you make choices to fi
 
 1. Clone or download this repository.
 2. Make sure you have Python 3 installed.
-<pre>
 3. Run the script in your terminal:
-
-```bash
-python treasure_island.py 
-```
-<pre>
-
+``` bash python treasureisland.py ```
 4. Follow the on-screen prompts to play. 
 
 ## Technologies 
@@ -28,7 +22,8 @@ python treasure_island.py
 - Conditional Logic 
 - input() function for user interaction
 
-Created with curiosity and code by Milena Dilly
+Created with curiosity and code by Milena Dilly.
+
 Learning Python. Building one project at a time.
 
 
